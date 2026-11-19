@@ -1,7 +1,8 @@
+
 {
   "expo": {
-    "name": "achadosdafatec",
-    "slug": "snack-07ac1ce9-1b78-460d-8406-260c97383ce0",
+    "name": "Achados e Perdidos Fatec",
+    "slug": "achados-perdidos-fatec",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -16,6 +17,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.leopoldoferreira.achadosperdidosfatec",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
